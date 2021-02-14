@@ -1,0 +1,5 @@
+Bill,Gates,10-28-1955, ,Microsoft, Windows, 124 Billion
+Bill,Gates,10-28-1955,-05-2011 ,Apple, iPad, 10.2 Billion
+Bill,Gates,10-28-1955, ,Linux, , 150 Million
+Dennis,Ritchie,9-9-1941, 10-12-2011,C Programming, Unix, 12 Million
+Jeff,Bezos,1-12-1964, ,Amazon, , 183 Billion
